@@ -76,3 +76,4 @@ PRODUCT_SHIPPING_API_LEVEL := 29
 # Inherit the proprietary files
 $(call inherit-product, vendor/xiaomi/lancelot/lancelot-vendor.mk)
 
+$(call inherit-product, vendor/lindroid/lindroid.mk)
